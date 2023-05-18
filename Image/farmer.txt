@@ -1,0 +1,66 @@
+Fruits
+------------------------
+Apple  220
+Banana 90
+Chery  165
+Grapes 55
+Kivi  220
+Lemon 35
+Mango 180
+Orange  218
+Papaya  50
+Pineapple  45
+Pomegranate  110
+Strowberry  80
+Watermelon 50
+
+
+
+Vegetable
+-----------------------------
+Beetroot 24
+Bitter-gourd 75
+Brinjal 53
+Broccoli 92
+Cabbege 98
+Capsicum50
+Carrot 30
+Cauliflower 120
+Corn 80
+Cucumber-green 40
+Garlic 60
+Ginger 80
+Green-peas 80
+Green-Chillies 30
+Lady-finger 70
+Mushroom 150
+Onion 30
+Potato 40
+Pumpkin 80
+Radish 30
+Tomato 30
+Zucchini 90
+Coriander-leaf  40
+Fresh-dil 60
+Methi 50
+Spinatch70
+
+
+
+
+Other
+-------------------
+Chikan 250 
+Mutton 600
+
+
+
+
+
+
+
+
+
+
+
+
